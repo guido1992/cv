@@ -21,7 +21,7 @@ import datetime as dt
 st.title("Alex Rathke CV")
 
 # Personal details
-st.markdown('Data Analyst | rathkealex@gmail.com | German - South African')
+st.markdown('Data Analyst | rathkealex@gmail.com')
 
 # Profile header
 st.subheader("Profile:" )
